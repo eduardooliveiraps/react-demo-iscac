@@ -25,10 +25,6 @@ function EffectDemo() {
         simular o carregamento de dados.
       </p>
       
-      <p className="text-gray-700 mb-4">
-        Abre a consola do browser (F12) para veres a mensagem!
-      </p>
-      
       <div className="p-4 bg-green-50 rounded text-center">
         <p className="text-lg font-semibold text-green-800">
           {message}
