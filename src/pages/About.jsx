@@ -3,7 +3,7 @@ function About() {
   const companyInfo = {
     name: 'ISCAC Junior Solutions',
     founded: 2012,
-    mission: 'Formar futuros líderes através de projetos reais'
+    mission: 'Promover uma experiência única que permita o desenvolvimento dos nossos membros como também uma prestação de serviços de alto valor para os nossos clientes.'
   };
 
   return (
@@ -27,10 +27,9 @@ function About() {
             O que fazemos?
           </h3>
           <ul className="list-disc list-inside space-y-2">
-            <li>Desenvolvimento de websites e aplicações</li>
-            <li>Consultoria empresarial</li>
-            <li>Formação de membros em tecnologias modernas</li>
-            <li>Projetos reais para clientes</li>
+            <li>Marketing Digital</li>
+            <li>Consultoria de Marketing</li>
+            <li>Organização de Eventos</li>
           </ul>
         </div>
       </div>
